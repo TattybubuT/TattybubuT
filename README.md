@@ -1,16 +1,18 @@
-### Hi there 👋 I'm Tattybubu!
+![Header](/\./assets/hello.gif)
+## **Tattybubu Talantbekova**
 
-<!--
-**TattybubuT/TattybubuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=TattybubuT&color=green)
+<hr>
 
-Here are some ideas to get you started:
+### Languages and Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="26px" alt="HTML5" src="./assets/html5.png">
+<img align="left" style="margin-left: 5px;" width="26px" alt="HTML5" src="./assets/css.png">
+
+<br />
+<br />
+<br />
+
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=TattybubuT&repo=Module-2-JavaScript&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TattybubuT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
