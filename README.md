@@ -18,9 +18,3 @@
 <img align="left"  width="38px" style="margin: 3px 5px;" alt="bootstrap" src="./assets/bootstrap..png">
 <img align="left" width="29px" style="margin: 2px 0;" alt="git" src="./assets/git.png">
 
-<br />
-<br />
-<hr>
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=TattybubuT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
