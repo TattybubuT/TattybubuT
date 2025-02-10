@@ -1,4 +1,4 @@
-![Header](/\./assets/hello.gif)
+
 ## **Tattybubu Talantbekova**
 
 ![](https://komarev.com/ghpvc/?username=TattybubuT&color=green)
